@@ -30,6 +30,3 @@ if (typeof document !== "undefined") {
   quantityInput.addEventListener("input", updateTotal);
   discountInput.addEventListener("input", updateTotal);
 }
-
-
-console.log("Testing CI run"); 
